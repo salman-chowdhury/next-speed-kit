@@ -5,7 +5,7 @@ Ship a polished CLI, codemods, sample project, and reporting utilities that demo
 
 [![Node.js](https://img.shields.io/badge/node-%3E=20-green)](https://nodejs.org/)
 [![PNPM](https://img.shields.io/badge/pnpm-9%2B-blue)](https://pnpm.io/)
-[![CI](https://img.shields.io/github/actions/workflow/status/salman-uq2024/next-speed-kit/ci.yml?label=CI)](https://github.com/salman-uq2024/next-speed-kit/actions/workflows/ci.yml)
+[![CI](https://img.shields.io/github/actions/workflow/status/salman-chowdhury/next-speed-kit/ci.yml?label=CI)](https://github.com/salman-chowdhury/next-speed-kit/actions/workflows/ci.yml)
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 ## Features
@@ -27,7 +27,7 @@ Quantified Benefits: Auto-fixes 4 common issues, reduces initial bundle size by 
 
 1. **Clone and Install**:
    ```bash
-   git clone https://github.com/salman-uq2024/next-speed-kit.git
+   git clone https://github.com/salman-chowdhury/next-speed-kit.git
    cd next-speed-kit
    pnpm install
    ```
@@ -73,7 +73,7 @@ Run `pnpm example:audit` to see diffs in action. The script runs Lighthouse in d
 ### Steps
 1. Clone the repo:
    ```bash
-   git clone https://github.com/salman-uq2024/next-speed-kit.git
+   git clone https://github.com/salman-chowdhury/next-speed-kit.git
    cd next-speed-kit
    ```
 
@@ -134,4 +134,4 @@ MIT © Salman. See [LICENSE](LICENSE) for details.
 
 ---
 
-⭐ **Star this repo** if it helps your Next.js perf! | 🐛 [Open an Issue](https://github.com/salman-uq2024/next-speed-kit/issues) | 📖 [Full Docs](docs/)
+⭐ **Star this repo** if it helps your Next.js perf! | 🐛 [Open an Issue](https://github.com/salman-chowdhury/next-speed-kit/issues) | 📖 [Full Docs](docs/)
