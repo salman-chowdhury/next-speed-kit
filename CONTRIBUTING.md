@@ -8,7 +8,7 @@ We follow standard open-source practices: fork the repo, create a branch, submit
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/salman-uq2024/next-speed-kit.git
+   git clone https://github.com/salman-chowdhury/next-speed-kit.git
    cd next-speed-kit
    ```
 
@@ -118,7 +118,7 @@ PRs trigger CI tests. Address feedback promptly. We aim to review within 48 hour
 
 ## Issues and Questions
 
-- Report bugs or request features in the [Issues](https://github.com/salman-uq2024/next-speed-kit/issues) tab.
+- Report bugs or request features in the [Issues](https://github.com/salman-chowdhury/next-speed-kit/issues) tab.
 - For discussions, use Discussions or comment on PRs.
 
 By contributing, you agree that your work will be licensed under the MIT License (see [LICENSE](LICENSE)). Questions? Reach out via issues.

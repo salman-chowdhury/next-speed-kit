@@ -40,7 +40,7 @@ Before installing, ensure you have the following:
 1. **Clone the Repository**:
    Clone the project from GitHub and navigate into the directory:
    ```bash
-   git clone https://github.com/salman-uq2024/next-speed-kit.git
+   git clone https://github.com/salman-chowdhury/next-speed-kit.git
    cd next-speed-kit
    ```
 

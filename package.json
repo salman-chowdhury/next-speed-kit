@@ -16,9 +16,9 @@
     "cli",
     "typescript"
   ],
-  "repository": "https://github.com/salman-uq2024/next-speed-kit",
-  "bugs": "https://github.com/salman-uq2024/next-speed-kit/issues",
-  "homepage": "https://github.com/salman-uq2024/next-speed-kit",
+  "repository": "https://github.com/salman-chowdhury/next-speed-kit",
+  "bugs": "https://github.com/salman-chowdhury/next-speed-kit/issues",
+  "homepage": "https://github.com/salman-chowdhury/next-speed-kit",
   "author": "Salman",
   "license": "MIT",
   "files": [

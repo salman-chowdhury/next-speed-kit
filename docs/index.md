@@ -23,6 +23,6 @@ For a quick start, see the [README.md](../README.md). To contribute, refer to [C
 
 - **Example App**: Explore the bundled Next.js demo in the `example/` directory. Run `pnpm --filter next-speed-kit-example dev` after installation.
 - **Reports**: Audit outputs in `reports/`, including `summary.md` for performance deltas.
-- **GitHub Repository**: [salman-uq2024/next-speed-kit](https://github.com/salman-uq2024/next-speed-kit) for issues, stars, and forks.
+- **GitHub Repository**: [salman-chowdhury/next-speed-kit](https://github.com/salman-chowdhury/next-speed-kit) for issues, stars, and forks.
 
 This documentation is polished for clarity and professionalism, with consistent Markdown formatting, code blocks, and cross-links. For updates, check the [CHANGELOG.md](../CHANGELOG.md).
